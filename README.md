@@ -1,11 +1,10 @@
 # Data for Ru-loaded pyrrolic-N-doped extensively graphitized porous carbon for high performance electrochemical hydrogen evolution
 
-Personalized Auto-Correct for Mobile Devices
-<br>Presentation:  https://docs.google.com/presentation/d/15lw0YoCaAgi6aS3IDdqB2xxnaMgcg-fHXuMsZ4Jo9qw/edit?usp=sharing
+Archive of data.  The data is calculated from SeqQUEST and JDFTx ab-initio quantum software.  They are used to calculate energy efficiencies and geometries of Ru Hydrogen Evolution Reaction catalyst on N-graphene support.
 
 <hr/>
 
-Folders:
+##Folders:
 
 I) Seqquest - DFT Calculations using QUEST:  https://dft.sandia.gov/quest/
 	File types:
